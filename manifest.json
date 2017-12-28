@@ -22,7 +22,6 @@
   ],
   "background": {
     "scripts": [
-      "donate.js",
       "request.js"
     ]
   },
